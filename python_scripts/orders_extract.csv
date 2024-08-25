@@ -1,0 +1,4 @@
+insert|1|Shipped|2020-06-01 12:00:00
+insert|2|Shipped|2020-06-02 12:00:25
+update|1|Delivered|2020-06-03 12:00:00
+delete|2|Shipped|2020-06-02 12:00:25
